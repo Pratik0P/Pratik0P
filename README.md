@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratik Prakash
 
-<!--
-**Pratik0P/Pratik0P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA in Computer Engineering | AI/ML & Full‑Stack Developer  
+Built AI‑powered resume screener & mobile food ordering app.
 
-Here are some ideas to get you started:
+**🔧 Tech:** Python · FastAPI · Streamlit · Scikit‑learn · React Native · Context API · Expo · OpenCV · Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📈 DSA:** Solved 150+ problems on LeetCode – rating X. Link: [LeetCode Profile](https://leetcode.com/u/prakashpratik04)
+
+---
+
+## 🚀 Featured Projects
+
+### SmartHire Pro  
+AI-based resume ranking app with Streamlit UI & FastAPI backend.  
+- 📁 Upload resumes, paste JD, get ranked results  
+- 🔗 [GitHub Repo](link) | 🔗 [Live Demo](link)
+
+### Matangi Kitchen  
+React Native food-ordering app with cart and order history.  
+- 🍛 Context API-powered global state  
+- 🔗 [GitHub Repo](link)
+
+---
+
+## 📫 Connect with me
+
+- ✉️ Email: prakashpratik04@gmail.com  
+- 🔗 LinkedIn: linkedin.com/in/pratikprakash04  
